@@ -1,8 +1,12 @@
 {
   "name": "inko-cli",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Use Inko on the Command Line",
-  "main": "index.js",
+  "main": "./lib/app.js",
+  "bin":{
+    "inko": "bin/inko.js"
+  },
+  "preferGlobal": true,
   "scripts": {
     "test": "mocha",
     "start": "node index.js"
