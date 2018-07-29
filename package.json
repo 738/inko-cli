@@ -1,0 +1,21 @@
+{
+  "name": "inko-cli",
+  "version": "1.0.0",
+  "description": "Use Inko on the Command Line",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com-jonjee:JonJee/inko-cli.git"
+  },
+  "author": "Jon Jee",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^2.4.1",
+    "commander": "^2.16.0",
+    "inko": "^1.0.0"
+  }
+}
