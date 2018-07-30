@@ -1,4 +1,6 @@
 # inko-cli
+![inkojs_logo](https://github.com/JonJee/inko/blob/master/images/inkojs_logo.png?raw=true)
+
 [![GitHub license](https://img.shields.io/github/license/jonjee/inko-cli.svg)](https://github.com/jonjee/inko-cli/blob/master/LICENSE)
 [![npm](https://img.shields.io/npm/v/inko-cli.svg)](https://npmjs.com/package/inko-cli)
 
