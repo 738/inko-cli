@@ -1,8 +1,16 @@
-# inko-cli
-![inkojs_logo](https://github.com/JonJee/inko/blob/master/images/inkojs_logo.png?raw=true)
+<h1 align="center">
+    <img height="250" src="https://github.com/JonJee/inko/blob/master/images/inko_logo.png?raw=true" />
+    <br> inko-cli
+</h1>
 
-[![GitHub license](https://img.shields.io/github/license/jonjee/inko-cli.svg)](https://github.com/jonjee/inko-cli/blob/master/LICENSE)
-[![npm](https://img.shields.io/npm/v/inko-cli.svg)](https://npmjs.com/package/inko-cli)
+<p align="center">
+  <a href="https://github.com/jonjee/inko-cli/blob/master/LICENSE">
+    <img src="https://img.shields.io/github/license/jonjee/inko-cli.svg" />
+  </a>
+  <a href="https://npmjs.com/package/inko-cli">
+    <img src="https://img.shields.io/npm/v/inko-cli.svg" alt="version" />
+  </a>
+</p>
 
 Use [Inko](https://github.com/JonJee/inko) on the Command Line
 [Inko.js(잉꼬JS)](https://github.com/JonJee/inko)는 영타를 한글로 혹은 한타를 영어로 변환해주는 자바스크립트 오픈소스 라이브러리입니다. [inko-cli](https://github.com/JonJee/inko-cli)는 터미널에서 inko를 쉽게 쓰게 해주는 커맨드라인 인터페이스 모듈입니다.
