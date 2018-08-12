@@ -17,6 +17,7 @@
     "url": "git@github.com:JonJee/inko-cli.git"
   },
   "author": "Jon Jee",
+  "homepage": "https://inko.holy.kiwi",
   "license": "MIT",
   "dependencies": {
     "chalk": "^2.4.1",

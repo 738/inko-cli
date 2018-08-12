@@ -17,20 +17,23 @@
   <sub><a href="https://github.com/JonJee/inko">Inko.js</a>는 영타를 한글로 혹은 한타를 영어로 변환해주는 자바스크립트 오픈소스 라이브러리입니다. <a href="https://github.com/JonJee/inko-cli">inko-cli</a>는 터미널에서 inko를 쉽게 쓰게 해주는 커맨드라인 인터페이스 모듈입니다.</sub>
 </p>
 
-## How to Install
+# Getting Started
+- [Inko Offical Website](https://inko.holy.kiwi) has been launched!
+
+## Installation
 ```bash
 npm install -g inko-cli
 ```
 
-## How to Use
+## Usage
 
-### 영타를 한글로
+### 영어 → 한글
 ```bash
 $ inko -k "dkssudgktpdy ggg"
 안녕하세요 ㅎㅎㅎ
 ```
 
-### 한타를 영어로
+### 한글 → 영어
 ```bash
 $ inko -e "ㅗ디ㅣㅐ 재깅!"
 hello world!
@@ -40,4 +43,4 @@ hello world!
 ![inko-cli](https://raw.githubusercontent.com/JonJee/inko-cli/master/images/inko_cli_example.png)
 
 ## License
-MIT
+inko-cli is released under the MIT License. See [LICENSE](https://github.com/jonjee/inko-cli/blob/master/LICENSE) file for details.
