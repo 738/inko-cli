@@ -11,6 +11,23 @@
     "test": "mocha",
     "start": "node index.js"
   },
+  "keywords": [
+    "inko",
+    "korean",
+    "english",
+    "convert",
+    "converter",
+    "korea",
+    "잉꼬",
+    "한글",
+    "영타",
+    "한타",
+    "영어",
+    "변환",
+    "한영타변환",
+    "cli",
+    "terminal"
+  ],
   "engines": { "node": ">= 0.4.0" },
   "repository": {
     "type": "git",
