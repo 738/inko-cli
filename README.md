@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img height="220" src="https://github.com/JonJee/inko/blob/master/images/inko_logo.png?raw=true" />
+    <img height="200" src="https://github.com/JonJee/inko/blob/master/images/inko_logo.png?raw=true" />
     <br> inko-cli
 </h1>
 
