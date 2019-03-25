@@ -19,6 +19,7 @@
 
 # Getting Started
 - [Inko Offical Website](https://inko.holy.kiwi) has been launched!
+- [Inko 한영타변환기 Chrome Extension](https://chrome.google.com/webstore/detail/inko-%ED%95%9C%EC%98%81%ED%83%80%EB%B3%80%ED%99%98%EA%B8%B0/bijdbcchfaolmleinaghdbnemmdabbmn?hl=ko) has been launched! (2019.03.25)
 
 ## Installation
 ```bash
