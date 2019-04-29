@@ -30,18 +30,15 @@ npm install -g inko-cli
 
 ### 영어 → 한글
 ```bash
-$ inko -k "dkssudgktpdy ggg"
+$ inko -e "dkssudgktpdy ggg"
 안녕하세요 ㅎㅎㅎ
 ```
 
 ### 한글 → 영어
 ```bash
-$ inko -e "ㅗ디ㅣㅐ 재깅!"
+$ inko -k "ㅗ디ㅣㅐ 재깅!"
 hello world!
 ```
-
-### Example
-![inko-cli](https://raw.githubusercontent.com/JonJee/inko-cli/master/images/inko_cli_example.png)
 
 ## License
 inko-cli is released under the MIT License. See [LICENSE](https://github.com/jonjee/inko-cli/blob/master/LICENSE) file for details.
