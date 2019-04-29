@@ -1,9 +1,9 @@
 {
   "name": "inko-cli",
-  "version": "1.0.2",
+  "version": "1.1.0",
   "description": "Use Inko on the Command Line",
   "main": "./lib/app.js",
-  "bin":{
+  "bin": {
     "inko": "bin/inko.js"
   },
   "preferGlobal": true,
@@ -28,17 +28,19 @@
     "cli",
     "terminal"
   ],
-  "engines": { "node": ">= 0.4.0" },
+  "engines": {
+    "node": ">= 0.4.0"
+  },
   "repository": {
     "type": "git",
-    "url": "git@github.com:JonJee/inko-cli.git"
+    "url": "git@github.com:738/inko-cli.git"
   },
-  "author": "Jon Jee",
+  "author": "738 (Jon Jee)",
   "homepage": "https://inko.holy.kiwi",
   "license": "MIT",
   "dependencies": {
     "chalk": "^2.4.1",
     "commander": "^2.16.0",
-    "inko": "^1.0.0"
+    "inko": "^1.1.0"
   }
 }
